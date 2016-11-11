@@ -1,2 +1,2 @@
 # r-stochastic-simulation
-Stochastic simulation project in R
+Project for Stochastic Simulation course at Imperial College London, March 2013.
